@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashutoshann
-- 👀 I’m interested in data science and machine learning.
+- 👀 I’m interested in Web development and blockchain
 - 🌱 I’m currently graduate
 - 💞️ I’m looking to collaborate on help me projects problems.
 - 📫 How to reach me ...
